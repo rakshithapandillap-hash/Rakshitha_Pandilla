@@ -11,7 +11,6 @@
 | Lab | Title | Status |
 |---|---|---|
 | Lab 01 | Node.js and Express Server | Completed |
-| Lab 02 | Refer to Lab 02 README | To be updated |
 | Lab 03 | REST API, Query Parameters, Validation and Debugging | Completed |
 
 ## Technologies
