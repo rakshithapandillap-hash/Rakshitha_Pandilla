@@ -1,0 +1,9 @@
+{
+  "watch": ["*.js"],
+  "ignore": [
+    "screenshots/**",
+    "database/**",
+    "node_modules/**"
+  ],
+  "ext": "js,json"
+}
